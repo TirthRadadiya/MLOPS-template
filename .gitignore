@@ -3,7 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# custome ignore folders
 .idea
+artifacts/
+logs
 
 # C extensions
 *.so
